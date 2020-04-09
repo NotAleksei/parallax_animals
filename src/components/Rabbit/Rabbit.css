@@ -1,0 +1,13 @@
+
+.rabbit{
+    position: absolute;
+    left: calc(50% - 75px);
+    top: calc(150vh - 130px);
+    height: 230px;
+    width: 220px;
+    transition: all 0.7s ease-in-out;
+}
+
+.rabbitleft{
+    left: calc(25% - 75px);
+}

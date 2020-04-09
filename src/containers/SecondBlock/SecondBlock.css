@@ -1,0 +1,24 @@
+.SecondBlock{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: rgb(162, 170, 147);
+}
+
+
+.nextPageRabbit{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: absolute;
+    bottom: 5vh;
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+    z-index: 999;
+    cursor: pointer;
+}
+
+.topArrow{
+    margin-bottom: -8px;
+}

@@ -1,0 +1,93 @@
+
+.fox{
+    position: absolute;
+    left: calc(50% - 80px);
+    height: 160px;
+    width: 160px;
+    transition: all 0.7s ease-in-out;
+    overflow: hidden;
+    pointer-events: none;
+}
+
+.foxleft{
+    left: calc(25% - 80px);
+}
+.leftEar{
+    position: absolute;
+    left: 10px;
+}
+
+.rightEar{
+    position: absolute;
+    left: 50px;
+}
+
+.leftFace{
+    position: absolute;
+    left: 10px;
+    z-index: 99;
+}
+
+.rightFace{
+    position: absolute;
+    left: 50px;
+    z-index: 99;
+}
+
+.leftNeck{
+    position: absolute;
+    left: 20px;
+    top: 40px;
+    z-index: 1;
+}
+
+.rightNeck{
+    position: absolute;
+    left: 50px;
+    top: 40px;
+    z-index: 1;
+}
+
+.body{
+    position: absolute;
+    left: 50px;
+    top: 50px;
+}
+
+.leg{
+    position: absolute;
+    left: 50px;
+    top: 50px;
+}
+
+.tail{
+    position: absolute;
+    left: 110px;
+    top: 60px;
+}
+
+.endTail{
+    position: absolute;
+    left: 135px;
+    top: 40px;
+}
+.nose{
+    position: absolute;
+    left: 47px;
+    top: 68px;
+    z-index: 99;
+}
+
+.leftEye{
+    position: absolute;
+    left: 38px;
+    top: 40px;
+    z-index: 99;
+}
+
+.rightEye{
+    position: absolute;
+    left: 58px;
+    top: 40px;
+    z-index: 99;
+}
