@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/project/static/css/main.e5fc0f26.chunk.css",
-    "main.js": "/project/static/js/main.1b8216e0.chunk.js",
-    "main.js.map": "/project/static/js/main.1b8216e0.chunk.js.map",
-    "runtime-main.js": "/project/static/js/runtime-main.60eac5a4.js",
-    "runtime-main.js.map": "/project/static/js/runtime-main.60eac5a4.js.map",
-    "static/js/2.2db01761.chunk.js": "/project/static/js/2.2db01761.chunk.js",
-    "static/js/2.2db01761.chunk.js.map": "/project/static/js/2.2db01761.chunk.js.map",
-    "index.html": "/project/index.html",
-    "precache-manifest.91385b44fa1af30b533fd314cca6f0a3.js": "/project/precache-manifest.91385b44fa1af30b533fd314cca6f0a3.js",
-    "service-worker.js": "/project/service-worker.js",
-    "static/css/main.e5fc0f26.chunk.css.map": "/project/static/css/main.e5fc0f26.chunk.css.map",
-    "static/js/2.2db01761.chunk.js.LICENSE.txt": "/project/static/js/2.2db01761.chunk.js.LICENSE.txt",
-    "static/media/1.jpg": "/project/static/media/1.e8195d3b.jpg",
-    "static/media/2.jpg": "/project/static/media/2.b1e9b095.jpg"
+    "main.css": "/parallax_animals/static/css/main.e5fc0f26.chunk.css",
+    "main.js": "/parallax_animals/static/js/main.1b8216e0.chunk.js",
+    "main.js.map": "/parallax_animals/static/js/main.1b8216e0.chunk.js.map",
+    "runtime-main.js": "/parallax_animals/static/js/runtime-main.33202261.js",
+    "runtime-main.js.map": "/parallax_animals/static/js/runtime-main.33202261.js.map",
+    "static/js/2.2db01761.chunk.js": "/parallax_animals/static/js/2.2db01761.chunk.js",
+    "static/js/2.2db01761.chunk.js.map": "/parallax_animals/static/js/2.2db01761.chunk.js.map",
+    "index.html": "/parallax_animals/index.html",
+    "precache-manifest.cace158fb51780f4c5421e10209992b8.js": "/parallax_animals/precache-manifest.cace158fb51780f4c5421e10209992b8.js",
+    "service-worker.js": "/parallax_animals/service-worker.js",
+    "static/css/main.e5fc0f26.chunk.css.map": "/parallax_animals/static/css/main.e5fc0f26.chunk.css.map",
+    "static/js/2.2db01761.chunk.js.LICENSE.txt": "/parallax_animals/static/js/2.2db01761.chunk.js.LICENSE.txt",
+    "static/media/1.jpg": "/parallax_animals/static/media/1.e8195d3b.jpg",
+    "static/media/2.jpg": "/parallax_animals/static/media/2.b1e9b095.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.60eac5a4.js",
+    "static/js/runtime-main.33202261.js",
     "static/js/2.2db01761.chunk.js",
     "static/css/main.e5fc0f26.chunk.css",
     "static/js/main.1b8216e0.chunk.js"
