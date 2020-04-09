@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5b8d1899c8d416dc0ffdf059f92f72e4",
+    "revision": "3fd61ddd573a85ab4866a8499f9186bb",
     "url": "/parallax_animals/index.html"
   },
   {
-    "revision": "44cfa4622eea0c01bfdb",
-    "url": "/parallax_animals/static/css/main.e5fc0f26.chunk.css"
+    "revision": "88f6c82e104384489083",
+    "url": "/parallax_animals/static/css/main.e4cdcc10.chunk.css"
   },
   {
     "revision": "febc0423c164d4ecc1b7",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/parallax_animals/static/js/2.2db01761.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "44cfa4622eea0c01bfdb",
+    "revision": "88f6c82e104384489083",
     "url": "/parallax_animals/static/js/main.1b8216e0.chunk.js"
   },
   {
